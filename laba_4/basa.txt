@@ -1,0 +1,8 @@
+6
+        Mihailov          Sergey       Ivanovich          897645          800000
+          petrov            petr       petrovich          123456          370000
+          Zaycev           Krosh       Zaychatin          121212          200000
+           Putin        Vladimir   Vladimirovich          392076           90034
+        nikolaev          sergey         lvovich          223344           15000
+        Xrushkin        Pytachok      Svinkovich         1111111           12900
+ 
